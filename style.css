@@ -1,0 +1,24 @@
+#title {
+	color: grey;
+	background-color: black	;
+	margin: auto;
+	text-align: center;
+	text-decoration: underline; 
+	font-size: 80px;
+	font-family: arial;
+	text-decoration-color: red;
+}
+#title:hover {
+	color: white;
+	background-color: grey;
+	text-decoration-color: blue;
+}
+#subtitle {
+	text-decoration: underline;
+	font-size: 32px;
+	text-align: center;
+	font-family: arial;
+}
+#picture1 {
+	text-align: center;
+}
